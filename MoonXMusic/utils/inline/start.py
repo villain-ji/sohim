@@ -37,4 +37,5 @@ def private_panel(_):
             InlineKeyboardButton(text="𝐌ᴏᴠɪᴇs 🍿",url=f"https://t.me/+CwLuv7jviXhiMGVl"),
         ],
     ]
-    return buttons
+    return bu
+    ttons
