@@ -30,6 +30,8 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
         [
+            InlineKeyboardButton(text="💗 𝐒ᴜʙsᴄʀɪʙᴇ 𝐓ᴏ 𝐒ᴏʜɪɴɪ 💗",url=f"https://t.me/About_Sohini"),
+        ],
             InlineKeyboardButton(text=_["S_B_6"], callback_data="LG"),
         ],
     ]
