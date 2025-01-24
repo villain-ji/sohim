@@ -2,7 +2,7 @@ import math
 
 from pyrogram.types import InlineKeyboardButton
 
-from MoonXMusic.tils.formatters import time_to_seconds
+from MoonXMusic.utils.formatters import time_to_seconds
 from MoonXMusic import app
 
 def track_markup(_, videoid, user_id, channel, fplay):
